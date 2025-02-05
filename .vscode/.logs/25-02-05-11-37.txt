@@ -1,0 +1,100 @@
+25-02-05 11:37 Session started
+----------------------------------------
+11:40:25 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml
+----------------------------------------
+11:40:27 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml.cs
+----------------------------------------
+11:40:28 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml
+----------------------------------------
+
+11:50:11 009:004 > s
+11:50:11 009:005 > st
+11:50:11 009:006 > sta
+11:50:11 009:007 > stac
+11:50:11 009:008 > stack
+11:50:12 009:004 > <StackPanel></StackPanel>
+
+11:50:16 010:004 > l
+11:50:16 010:005 > la
+11:50:16 010:006 > lab
+11:50:17 010:007 > labe
+11:50:17 010:008 > label
+11:50:17 010:004 > <Label></Label>
+11:50:19 010:011 > A
+11:50:20 010:012 > An
+11:50:20 010:013 > Ang
+11:50:20 010:014 > Ange
+11:50:20 010:016 > Ange t
+11:50:21 010:017 > Ange te
+11:50:21 010:018 > Ange tex
+11:50:21 010:019 > Ange text
+11:50:24 010:016 > Ange texte
+11:50:24 010:017 > Ange texten
+
+11:50:27 011:004 > t
+11:50:27 011:005 > te
+11:50:27 011:006 > tex
+11:50:27 011:007 > text
+11:50:27 011:008 > textb
+11:50:27 011:009 > textbu
+11:50:28 011:010 > textbut
+11:50:28 011:011 > textbutt
+11:50:29 011:009 > textbuttu
+11:50:29 011:010 > textbuttut
+11:50:30 011:011 > textbuttutt
+11:50:32 011:004 > textbuttutt<
+11:50:36 011:013 > textbuttutt<o
+11:50:37 011:014 > textbuttutt<on
+11:50:38 011:004 > <textbutton
+11:50:43 011:009 > b
+11:50:44 011:010 > bo
+11:50:44 011:011 > box
+11:50:44 011:004 > <TextBox></TextBox>
+
+11:50:49 012:004 > b
+11:50:49 012:005 > bu
+11:50:49 012:006 > but
+11:50:50 012:007 > butt
+11:50:50 012:008 > butto
+11:50:50 012:009 > button
+11:50:50 012:004 > <Button></Button>
+11:50:53 012:012 > A
+11:50:53 012:013 > Av
+11:50:53 012:014 > Avb
+11:50:54 012:015 > Avbr
+11:50:54 012:016 > Avbry
+11:50:54 012:017 > Avbryt
+11:53:33 012:016 > Avbryt         m
+11:53:33 012:017 > Avbryt         ma
+11:53:33 012:018 > Avbryt         mar
+11:53:34 012:019 > Avbryt         marg
+11:53:34 012:020 > Avbryt         margi
+11:53:34 012:021 > Avbryt         margib
+11:53:34 012:022 > Avbryt         margibn
+11:53:36 012:021 > Avbryt         margibnn
+11:53:42 012:022 > Avbryt         margibnn =
+11:53:42 012:023 > ""
+11:53:44 012:024 > 1
+11:53:44 012:025 > 10
+
+11:53:50 011:017 > v
+11:53:51 011:017 > margin="10"
+11:53:58 010:015 > margin="10"
+11:54:05 013:000 > <Button margin="10">Avbryt</Button>
+
+11:54:10 012:028 > O
+11:54:10 012:029 > OK
+
+11:54:16 013:029 > p
+11:54:16 013:030 > pa
+11:54:16 013:031 > pad
+11:54:16 013:032 > padd
+11:54:16 013:033 > paddi
+11:54:17 013:034 > paddin
+11:54:17 013:035 > padding
+11:54:17 013:036 > padding=
+11:54:18 013:037 > ""
+11:54:20 013:038 > 1
+11:54:20 013:039 > 10
+11:54:32 012:028 > padding="10"
+11:56:16 009:016 > margin="10"
