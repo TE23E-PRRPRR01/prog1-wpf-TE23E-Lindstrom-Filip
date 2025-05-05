@@ -1,0 +1,10 @@
+25-03-19 13:56 Session started
+----------------------------------------
+13:56:38 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml
+----------------------------------------
+13:56:40 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml
+----------------------------------------
+13:56:40 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+14:10:24 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------

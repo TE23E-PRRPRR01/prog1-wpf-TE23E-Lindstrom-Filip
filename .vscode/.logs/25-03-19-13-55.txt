@@ -1,0 +1,38 @@
+25-03-19 13:55 Session started
+----------------------------------------
+13:55:24 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml.cs
+----------------------------------------
+13:55:25 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+13:55:38 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+13:55:39 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml.cs
+----------------------------------------
+13:55:40 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml.cs
+----------------------------------------
+13:55:41 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml
+----------------------------------------
+13:55:42 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\AssemblyInfo.cs
+----------------------------------------
+13:55:43 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+13:55:45 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml.cs
+----------------------------------------
+13:55:47 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+13:55:47 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\AssemblyInfo.cs
+----------------------------------------
+13:55:49 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+13:55:50 Document switched to: Untitled-1
+----------------------------------------
+13:55:50 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\App.xaml
+----------------------------------------
+13:55:51 Document switched to: Untitled-1
+----------------------------------------
+13:55:53 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml.cs
+----------------------------------------
+13:55:54 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\AssemblyInfo.cs
+----------------------------------------
+13:55:55 Document switched to: c:\Users\filip.lindstrom\github-classroom\prog1-wpf-TE23E-Lindstrom-Filip\MainWindow.xaml
+----------------------------------------
